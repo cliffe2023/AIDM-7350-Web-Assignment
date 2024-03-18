@@ -1,0 +1,27 @@
+.justified-text {
+    text-align: justify;
+}
+
+.enlarge {
+    transition: transform 0.3s;
+}
+
+.enlarge:hover {
+    transform: scale(1.05);
+}
+
+.enlarge1 {
+    transition: transform 0.3s;
+}
+
+.enlarge1:hover {
+    transform: scale(1.23);
+}
+
+.highlight {
+    color: brown;
+}
+
+.image1:hover {
+    opacity: 0.5
+}
